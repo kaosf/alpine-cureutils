@@ -2,7 +2,7 @@
 
 It's based on Alpine Linux for lightweight image.
 
-Special thanks to @greymd
+Special thanks to [@greymd](https://github.com/greymd)
 
 [dockerfiles/cureutils/debian at master · greymd/dockerfiles](https://github.com/greymd/dockerfiles/tree/master/cureutils/debian)
 
